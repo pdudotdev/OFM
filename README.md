@@ -179,10 +179,6 @@ The main goal of **OFM** is to provide a clear path for performing the **Data Co
 - The **OFM may get updated over time** due to a rapidly-changing online landscape and the emergence of more sophisticated tools.
 - Tools, websites, or services that are not **actively maintained** (2yrs+) will be gradually removed, and new ones will be added.
 
-## 🍀 **Latest Updates**
-- Version **v1.1.0** added **browser bookmarks** containing all the tools organized by stages, as well as a few **additional OSINT tools** - see the **bookmarks** folder.
-- Version **v1.1.1** added a **report template** file containing a sample page of an OFM-based report generated during OSINT investigations - see the **template** folder.
-
 ## 📜 **Disclaimers**
 - In the context of this methodology, OSINT refers to **passive, non-intrusive** open-source intelligence.
 - Tool mentions are **not** endorsements. I am in **no way** affiliated with any of these tools or services.
